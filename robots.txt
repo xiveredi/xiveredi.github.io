@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xiveredi.github.io/sitemap.xiveredi.gz
+Sitemap: https://xiveredi.github.io/app/sitemap.xiveredi.gz
+Sitemap: https://xiveredi.github.io/assets/sitemap.xiveredi.gz
+Sitemap: https://xiveredi.github.io/css/sitemap.xiveredi.gz
+Sitemap: https://xiveredi.github.io/data/sitemap.xiveredi.gz
+Sitemap: https://xiveredi.github.io/includes/sitemap.xiveredi.gz
+Sitemap: https://xiveredi.github.io/item/sitemap.xiveredi.gz
+Sitemap: https://xiveredi.github.io/src/sitemap.xiveredi.gz
